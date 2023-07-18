@@ -11,6 +11,10 @@ The first of these headers, called BITMAPFILEHEADER, is 14 bytes long. (Recall t
 
 Usage
 $ ./filter -g INFILE.bmp OUTFILE.bmp
+
 $ ./filter -r INFILE.bmp OUTFILE.bmp
+
 $ ./filter -b INFILE.bmp OUTFILE.bmp
+
 $ ./filter -e INFILE.bmp OUTFILE.bmp
+
